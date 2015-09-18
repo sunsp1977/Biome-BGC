@@ -124,6 +124,7 @@ int main(int argc, char *argv[])
 	var[i++] = "dadcrootn\t\t\t";
 	var[i++] = "dadcrootn_storag\t\t";
 	var[i++] = "dadcrootn_transfr\t\t";
+	var[i++] = "cwdn\t\t\t\t";
 	var[i++] = "litr1n\t\t\t\t";
 	var[i++] = "litr2n\t\t\t\t";
 	var[i++] = "litr3n\t\t\t\t";
